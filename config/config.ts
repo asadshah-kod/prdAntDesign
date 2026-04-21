@@ -184,7 +184,7 @@ export default defineConfig({
   mock: {
     include: ['mock/**/*', 'src/pages/**/_mock.ts'],
   },
-  utoopack: {},
+  // utoopack: {},
   requestRecord: {},
   exportStatic: {},
   define: {
